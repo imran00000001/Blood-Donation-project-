@@ -1,2 +1,18 @@
-# Blood-Donation-project-
-এটা একটা Full-Stack Web Application যেটা দিয়ে: Blood donor খোঁজা যায় (জেলা, থানা, blood group দিয়ে) Donation request করা যায় Admin, Volunteer, Donor — আলাদা আলাদা dashboard আছে Online payment করা যায় (Stripe) Real-time chat আছে
+# Blood Donation Management System
+
+A full-stack web application to manage blood donation activities. Built by Team:
+- Imran Hossain
+- Dipa
+- Ava
+
+## Features
+- User Authentication (Firebase)
+- Donor Search by District, Thana & Blood Group
+- Donation Request Management
+- Admin, Volunteer & Donor Dashboards
+- Real-time Chat
+- Blog Section
+- Stripe Payment Gateway
+
+## Technologies
+- React, Firebase, MongoDB, Node.js, Express.js, Stripe
